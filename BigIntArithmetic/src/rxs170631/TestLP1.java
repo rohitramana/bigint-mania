@@ -1,4 +1,4 @@
-package rxl174430;
+package rxs170631;
 
 import java.util.Scanner;
 
